@@ -1,0 +1,6 @@
+@import "_base.scss"; // .scss 확장자 생략 가능
+@import "_utiles";
+
+.container {
+  @include flexboxCenter($wrap: flex-end)
+}

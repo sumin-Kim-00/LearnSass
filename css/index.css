@@ -1,0 +1,13 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #999;
+  line-height: 1.5;
+  background-color: gold;
+}
+
+.container {
+  display: flex;
+  flex-flow: row flex-end;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=index.css.map */
